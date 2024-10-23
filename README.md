@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @System360WJ
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on something cool
-- 📫 How to reach me 
+- 👋 Hi, I’m: @System360WJ
+- 👀 I’m interested in: Technology
+- 🌱 I’m currently learning: HTML
+- 💞️ I’m looking to collaborate on: Something cool!
+- 📫 How to reach me: Through Git Hub 
 - 😄 Pronouns: He, Him and His
 - ⚡ Fun fact: The first iPhone had no app store installed
 
